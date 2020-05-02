@@ -23,4 +23,6 @@ __A1__: Да, можно, с помощьью использования сре�
 Источники:
 * [medium.com](https://medium.com/kata-containers/why-kata-containers-doesnt-replace-kubernetes-75e484679727) - Medium.
 * [https://katacontainers.io/](https://katacontainers.io/) - основной сайт __katacontainers__.
+=======
+
 
