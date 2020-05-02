@@ -4,9 +4,8 @@ _Задание: создайте свой кастомный образ nginx �
   
 __Проверка__:
 1. docker pull ribentrop/ngotus:1.0
-2. docker build --tag ribentrop/ngotus:1.0 .
-3. docker run --publish 8001:80 --detach --name ngotus ribentrop/ngotus:1.0
-4. curl http://localhost:8001
+2. docker run --publish 8001:80 --detach --name ngotus ribentrop/ngotus:1.0
+3. curl http://localhost:8001
 
 
 ### Вопросы-ответы
